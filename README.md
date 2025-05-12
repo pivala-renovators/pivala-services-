@@ -15,5 +15,9 @@ Welcome to **Pivala Renovators Aid Co.** — your trusted partner in building **
 - Phone: +255 766 655 600  
 
 ## 🌐 Live Website
-Once uploaded to GitHub Pages, your site will be visible at:
+
+---
+
+Built with care and professionalism by **Pivala Renovators Aid Co.**
+
 
